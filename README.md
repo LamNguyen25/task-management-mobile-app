@@ -16,3 +16,17 @@
 * Add a subtask
 
 ![](Add-Subtask.gif)
+
+* Mark a task as done and edit a task
+
+![](archive-edit.gif)
+
+* Upload an attachment (Photo or file)
+
+![](attachment.gif)
+
+* Change profile and email
+
+![](Change-profile-email.gif)
+
+
